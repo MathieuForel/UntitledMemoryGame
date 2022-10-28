@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0a2cc9ed538a77a4ea926c4205eed07c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Particle0: {fileID: 6842108864469865263, guid: a208ea7a81029374794da707d4e845b1, type: 3}
+  - Particle1: {fileID: 4880041776083994413, guid: 258a978a27ed89b4d979baaf7b8f395f, type: 3}
+  - Particle2: {fileID: 6210041158061091686, guid: 4ce11bb3637ae6a4fb6d55c61dd61272, type: 3}
+  - Particle3: {fileID: 6018745545278804508, guid: 82de8670ed3cd724fb01779a36b37b5a, type: 3}
+  - Particle4: {fileID: 8175768305391469259, guid: f7e1b1cf8f3b5e1408552bef3f2dba79, type: 3}
+  - Particle5: {fileID: 7628793399141268103, guid: 411dffbd8d49023468f41ce9dbeea338, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
